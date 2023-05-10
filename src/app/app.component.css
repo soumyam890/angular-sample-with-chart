@@ -1,0 +1,17 @@
+.chips-container {
+    display: flex;
+    align-items: center;
+}
+
+.emoji {
+    margin-left: 10px;
+    font-size: 24px;
+}
+
+.danger {
+    background: rgb(232, 134, 134) !important;
+}
+
+.success {
+    background: rgb(149, 232, 134);
+}
